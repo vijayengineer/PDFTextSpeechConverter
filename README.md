@@ -3,7 +3,7 @@ Converts scanned documents and ordinary documents into speech mp3 using Amazon P
 
 Pre-requisites:
 1.Setup amazon credentials files and install requirements.
-2. Ensure Amazon polly works by checking aws configure (detailed instructions in console)
+2. Ensure Amazon polly works by checking aws configure 
 
 ![Screenshot](https://github.com/vijayengineer/PDFTextSpeechConverter/blob/main/assets/Screenshot%202020-12-30%20at%2017.51.39.png)
 
