@@ -8,6 +8,8 @@ Pre-requisites:
 Converted speech files are stored in ConvertedSpeech folder
 Speech sample for a scandal in Bohemia extracted text are provided as sample
 
+![GitHub Logo](/assets/Screenshot 2020-12-30 at 17.35.55.png)
+
 Run server.py and check with the sample pdf
 
 
