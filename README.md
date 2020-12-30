@@ -10,7 +10,6 @@ Pre-requisites:
 Converted speech files are stored in ConvertedSpeech folder
 
 Test:
-Speech sample for a scandal in Bohemia extracted text are provided as sample
 Run server.py and check with the provided sample pdf
-
+Speech sample is provided as a test example
 
