@@ -1,5 +1,5 @@
 # PDFTextSpeechConverter
-Converts scanned documents and ordinary documents into speech mp3 using Amazon Polly
+Converts scanned documents and ordinary documents into text. Synthesizes speech as mp3 using Amazon Polly
 
 Pre-requisites:
 1.Setup amazon credentials files and install requirements.
